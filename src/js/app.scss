@@ -1,0 +1,9 @@
+@import "../../node_modules/bulma/bulma";
+
+$font-stack: Helvetica , sans-seif;
+$myColor : #333;
+.mytitle {
+  font-family: $font-stack;
+  text-align: left;
+  color : $myColor;
+}
